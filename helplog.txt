@@ -1,0 +1,11 @@
+Assignment Started: 26/10/2020 11:32AM GMT+3 (4:32PM EST)
+
+------------------- ENTRIES -------------------
+26/10/2020 2:40AM GMT+3 (25/10/2020 7:40PM EST): used http://www.opengl-tutorial.org/intermediate-tutorials/tutorial-17-quaternions/#quaternions to find out how to 
+    convert a quaternion into a mat4
+26/10/2020 5:25AM GMT+3 (25/10/2020 10:25PM EST): referred to https://www.geeksforgeeks.org/multiple-inheritance-in-c/ to find out how to implement multiple
+    inheritance in C++
+28/10/2020 4:41AM GMT+3 (27/10/2020 9:41PM EST): Sharon helped me debug an issue that was causing my program to output an error that says 
+    the count variable isn't initiallized in create() during OH
+31/10/2020 4:23PM GMT+3 (9:23AM EST): I used http://forum.lwjgl.org/index.php?topic=6158.0 to figure out how to initialize a uniform mat4
+    array in a GLSL shader
